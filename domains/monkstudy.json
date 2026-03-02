@@ -1,0 +1,13 @@
+{
+        "owner": {
+                "username": "hetkeraliya",
+                        "email": "your-email@example.com"
+                            },
+                                "description": "A productivity and study web app for students.",
+                                    "records": {
+                                            "CNAME": "d103195e4f6c0e61.vercel-dns-017.com",
+                                                    "TXT": ["vc-domain-verify=monkstudy.is-a.fun,6cb2712dedbbfc41ca3c"]
+                                                        }
+                                                        }
+                                                        
+}
